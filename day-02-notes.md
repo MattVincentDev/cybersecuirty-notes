@@ -19,6 +19,5 @@
   - Treat landscape. Being aware of current trends.
   - Intrusion detection systems. IDSs.
   - Incident response. Follow established policies and procedures.
-- [Any definitions, principles, or frameworks]
 
 ---

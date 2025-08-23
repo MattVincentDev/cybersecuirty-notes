@@ -22,7 +22,7 @@
   - Impact: The actual consequence if the risk materializes.
 
 - Why the CIA Triad Matters
-  - The CIA Triad is the foundation of cybersecurity because it gives a clear framework for protecting information. Every security control or policy ultimately supports confidentiality, integrity, or availability. If one of the three pillars is weak, systems and data are at risk of compromise. Cybersecurity professionals use the CIA Triad to evalulate risk, design defenses, and prioritize reponses to incidents.
+  - The CIA Triad is the foundation of cybersecurity because it gives a clear framework for protecting information. Every security control or policy ultimately supports confidentiality, integrity, or availability. If one of the three pillars is weak, systems and data are at risk of compromise. Cybersecurity professionals use the CIA Triad to evaluate risk, design defenses, and prioritize responses to incidents.
 
 - My Career Identity.
   - My Strengths
@@ -30,7 +30,7 @@
     - Motivated in whatever I do
     - Organized
     - Dedicated to myself and being great at anything I do
-    - Naturally gifted cooridination
+    - Naturally gifted coordination
     - Competitive, mainly with myself
 
   - Motivation
@@ -49,4 +49,4 @@
     - Friendly
 
 - My Career Identity  Statement
-  - I am a disciplined and resilient cyber security professional in training, building from a foundation of self-taught persistence and creative problem solving. With a background in streaming, community building, and content creation, I bring a unqiue ability to communicate complex ideas cearly and foster trust. My career path is defined by loyalty, independence, and the pursuit of freedom through mastery, securing systems while continulously growing stronger, sharper, and more impactful.
+  - I am a disciplined and resilient cyber security professional in training, building from a foundation of self-taught persistence and creative problem solving. With a background in streaming, community building, and content creation, I bring a unique ability to communicate complex ideas clearly and foster trust. My career path is defined by loyalty, independence, and the pursuit of freedom through mastery, securing systems while continuously growing stronger, sharper, and more impactful.
