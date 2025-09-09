@@ -1,4 +1,4 @@
-# Day X – Connect and Protect: Networks and Network Security
+# Day 8 – Connect and Protect: Networks and Network Security
 📅 Date: 2025-09-01
 🎯 Focus: Network Architecture
 
